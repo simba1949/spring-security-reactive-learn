@@ -14,7 +14,6 @@
 
     <modules>
         <module>authorization-annotation</module>
-        <module>authorization-dynamic-config</module>
     </modules>
 
     <properties>
