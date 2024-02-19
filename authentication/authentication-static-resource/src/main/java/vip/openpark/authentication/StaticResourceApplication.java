@@ -8,8 +8,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @version 2024/2/19 13:05
  */
 @SpringBootApplication
-public class AuthenticationApplication {
+public class StaticResourceApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(AuthenticationApplication.class, args);
+		SpringApplication.run(StaticResourceApplication.class, args);
 	}
 }
